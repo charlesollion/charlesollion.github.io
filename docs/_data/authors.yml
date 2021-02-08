@@ -1,0 +1,17 @@
+Charles Ollion:
+  name        : "Charles Ollion"
+  bio         : "Deep Learning researcher, lecturer & engineer"
+  avatar      : "/assets/images/photo_charles.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:charles.ollion@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/charles-ollion"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/charlesollion"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/charlesollion"
