@@ -15,13 +15,12 @@ Recent interests:
 
 - Image denoising with joint estimation of the noise distribution
 - Object tracking via modelisation of Camera tracking
-- Variational Autoencoders with better MCMC
-- Stochastic Transformers using SMC
+- Including MCMC and SMC in Deep Learning models such as VAEs, Transformers...
 
 
 ### Teaching
 
-I teach Deep Learning in various institutions (Ecole Polytechnique, Centrale-Supelec, ...) since 2015. All my teaching material (lectures, code, notebookes, videos) is available freely on this [page](https://m2dsupsdlclass.github.io/lectures-labs).
+I teach Deep Learning in various institutions (IPP, Centrale-Supelec, EPITA...) since 2015. All my teaching material (lectures, code, notebooks, videos) is available freely on [this page](https://m2dsupsdlclass.github.io/lectures-labs).
 
 ### Students
 
