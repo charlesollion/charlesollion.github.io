@@ -20,13 +20,13 @@ Recent interests:
 
 ### Teaching
 
-I teach Deep Learning in various institutions (IPP, Centrale-Supelec, EPITA...) since 2015. All my teaching material (lectures, code, notebooks, videos) is available freely on [this page](https://m2dsupsdlclass.github.io/lectures-labs).
+I have taught Deep Learning in various institutions (IPP, Centrale-Supelec, EPITA...) since 2015. All my teaching material (lectures, code, notebooks, videos) is available freely on [this page](https://m2dsupsdlclass.github.io/lectures-labs).
 
 ### Students
 
-- Hedi ben Younes, LIP6, PhD co-advisor, 2015-2019
-- Arthur Douillard, LIP6, PhD co-advisor, 2019-Ongoing
-- Mathis Chagneux, AgroParisTech, PhD co-advisor, 2020-Ongoing
+- Hedi ben Younes, LIP6, PhD co-advisor, 2015-2019, "Apprentissage de représentations multimodales texte-images"
+- Arthur Douillard, LIP6, PhD co-advisor, 2019-Ongoing, "Apprentissage profond incremental avec peu de donnees et une grande variabilite inter-domaines"
+- Mathis Chagneux, AgroParisTech, PhD co-advisor, 2020-Ongoing, "calibration de modèles géospatiaux robustes pour le comptage, le suivi et la localisation de déchets plastiques"
 
 ### Publications
 
