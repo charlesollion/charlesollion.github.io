@@ -13,7 +13,7 @@ I work part time at [Centre de Mathématiques Appliquées (CMAP)](https://portai
 
 Recent interests:
 
-- Image denoising with joint estimation of the noise distribution
+- Medical Image analysis & denoising ([project with Jean Ollion](https://www.sabilab.fr/))
 - Object tracking via modelisation of Camera tracking
 - Including MCMC and SMC in Deep Learning models such as VAEs, Transformers...
 
@@ -22,12 +22,14 @@ Recent interests:
 
 I have taught Deep Learning in various institutions (IPP, Centrale-Supelec, EPITA...) since 2015. All my teaching material (lectures, code, notebooks, videos) is available freely on [this page](https://m2dsupsdlclass.github.io/lectures-labs).
 
+
 ### Students
 
 - Hedi ben Younes, LIP6, PhD co-advisor, 2015-2019, "Apprentissage de représentations multimodales texte-images"
 - Arthur Douillard, LIP6, PhD co-advisor, 2019-Ongoing, "Apprentissage profond incremental avec peu de donnees et une grande variabilite inter-domaines"
 - Mathis Chagneux, AgroParisTech, PhD co-advisor, 2020-Ongoing, "calibration de modèles géospatiaux robustes pour le comptage, le suivi et la localisation de déchets plastiques"
 
+
 ### Publications
 
-wip
+To be added. Meanwhile [DLPB](https://dblp.org/pid/28/9882.html) [Scholar](https://scholar.google.fr/citations?user=nV_EpPkAAAAJ&hl=fr)
