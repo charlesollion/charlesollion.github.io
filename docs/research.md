@@ -7,9 +7,9 @@ author: Charles Ollion
 ---
 ### Research
 
-My main focus is on hybrid deep learning: combining models (statistical, physical, etc.) with modern deep learning architectures.
-
-I work part time at [Centre de Mathématiques Appliquées (CMAP)](https://portail.polytechnique.edu/cmap/fr/page-daccueil) at Institut Polytechnique de Paris (IPP).
+My main interest is in using advances in machine learning for the measure of pollution and biodiversity.
+I 
+At [Centre de Mathématiques Appliquées (CMAP)](https://portail.polytechnique.edu/cmap/fr/page-daccueil) - Institut Polytechnique de Paris (IPP), I worked on hybrid deep learning: combining models (statistical, physical, etc.) with modern deep learning architectures.
 
 Recent interests:
 
@@ -26,10 +26,10 @@ I have taught Deep Learning in various institutions (IPP, Centrale-Supelec, EPIT
 ### Students
 
 - Hedi ben Younes, LIP6, PhD co-advisor, 2015-2019, "Apprentissage de représentations multimodales texte-images"
-- Arthur Douillard, LIP6, PhD co-advisor, 2019-Ongoing, "Apprentissage profond incremental avec peu de donnees et une grande variabilite inter-domaines"
-- Mathis Chagneux, AgroParisTech, PhD co-advisor, 2020-Ongoing, "calibration de modèles géospatiaux robustes pour le comptage, le suivi et la localisation de déchets plastiques"
+- Arthur Douillard, LIP6, PhD co-advisor, 2019-2022, "Apprentissage profond incremental avec peu de donnees et une grande variabilite inter-domaines"
+- Mathis Chagneux, AgroParisTech, PhD co-advisor, 2020-2023, "calibration de modèles géospatiaux robustes pour le comptage, le suivi et la localisation de déchets plastiques"
 
 
 ### Publications
 
-To be added. Meanwhile [DLPB](https://dblp.org/pid/28/9882.html) [Scholar](https://scholar.google.fr/citations?user=nV_EpPkAAAAJ&hl=fr)
+[DLPB](https://dblp.org/pid/28/9882.html) [Scholar](https://scholar.google.fr/citations?user=nV_EpPkAAAAJ&hl=fr)
