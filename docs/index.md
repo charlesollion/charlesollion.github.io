@@ -6,12 +6,12 @@ layout: single
 author_profile: true
 author: Charles Ollion
 ---
-I'm a part-time researcher at [Centre de Mathématiques Appliquées (CMAP)](https://portail.polytechnique.edu/cmap/fr/page-daccueil) at Institut Polytechnique de Paris (IPP).
+I'm working on plastic pollution and biodiversity measurement using digital technologies.
 
-I'm a Deep Learning Teacher at [IPP](https://m2dsupsdlclass.github.io/lectures-labs) and various institutions.
+I work at [Naia Science](https://www.naia-science.com/) as technical director and data scientist.
 
-I'm an Independent Data Scientist / Engineer.
+I'm still involved with my former research at [Centre de Mathématiques Appliquées (CMAP)](https://portail.polytechnique.edu/cmap/fr/page-daccueil) at Institut Polytechnique de Paris (IPP).
 
-I'm a climate activist, doing scientific popularization for [CPLC](https://citoyenspourleclimat.org/) and data science for [Surfrider](https://surfrider.eu/nos-missions/dechets-aquatiques/plastic-origins-70172.html). Project page to come.
+I built and taught Deep Learning at [IPP](https://m2dsupsdlclass.github.io/lectures-labs) and other institutions from 2016 to 2022.
 
-I'm a scientific advisor at [Heuritech](https://www.heuritech.com/), a company I co-founded in 2013.
+I do scientific popularization for various NGOs and data science for [Surfrider](https://surfrider.eu/nos-missions/dechets-aquatiques/plastic-origins-70172.html).
